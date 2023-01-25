@@ -1,6 +1,6 @@
-A Aardvark
+A Aardvark (change in line 1)
 B Bat 
-C Crow
-C Cat 
+C Crow (change in line 3)
+C Cat (change in line 3)
 D Duck 
-E Eagle
+E Eagle (change in line 5)
